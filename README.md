@@ -3,7 +3,7 @@
 ## Overview
 This project showcases a dynamic **Pizza Sales Analytics Dashboard** designed to help pizza businesses optimize their operations through data-driven insights. Built using **Excel** and **MSSQL**, the dashboard dives deep into sales performance, customer preferences, and sales trends, enabling businesses to make informed decisions and improve profitability.
 
-![Pizza Sales Analytics Dashboard](![pizza analysis](https://github.com/user-attachments/assets/93590563-bd68-47f2-a0d1-eb122d6e8b33)!)
+(![pizza analysis](https://github.com/user-attachments/assets/93590563-bd68-47f2-a0d1-eb122d6e8b33)
 
 ## Key Features
 - **Revenue Insights**: Track total revenue, identify best-selling pizzas, and analyze busiest sales periods.
